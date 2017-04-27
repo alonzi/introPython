@@ -1,0 +1,32 @@
+environment setup
+
+a little history
+
+math
+statements and errors
+variables
+built-ins
+comments
+
+functions
+raw_input()
+type()
+data types
+  boolean
+  int,float
+  string
+  list,dict,set,tuple
+methods
+indexing/slicing
+
+
+boolean
+if/else
+code blocks
+
+for/while
+python for loops on lists
+
+file i/o
+
+import and packages
